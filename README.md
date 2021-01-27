@@ -36,5 +36,18 @@ An introduction to MIRLC: an easy live coding language to query sounds from Free
 - Creative exploration of the MIRLC2.0 tool (breakout rooms) - 30'
 - Plenary & Closing (all) - 20'
 
+## Day 2 - Wednesday 27th January 2021
+
+An introduction to machine learning in live coding and task 1: Train an agent to assist meaningful querying to Freesound.org
+
+- Recap (all) - 10'
+- Project presentation 2nd part: task 1 (Anna) - 15'
+- Tutorial FluidMLPClassifier (Anna) - 10'
+- Tutorial MIRLCa performance (Anna) - 15'
+- Comfort break - 10'
+- Hands-on MIRLCa performance (breakout rooms) - 20'
+- Tutorial MIRLCa training (Anna) - 15'
+- Hands-on MIRLCa training (breakout rooms) - 15'
+- Plenary and closing (all) - 10'
 
 
