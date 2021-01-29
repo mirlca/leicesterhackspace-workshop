@@ -1,4 +1,4 @@
-// Tutorial adapted from the MIRLCa help and live demoed by Anna Xambó on 27 January 2021 @ the LHS workshop
+// Tutorial adapted from the MIRLCa help and live demoed by Anna Xambó on 29 January 2021 @ the LHS workshop
 
 // Before instantiating MIRLCa, it is recommended that you define what path you will be storing the generated JSON files.
 // The slash at the end is very important.
